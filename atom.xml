@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ayers Blog</title>
+  
+  <subtitle>~Life of Leisure~</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-09-21T16:08:50.854Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Ayers Zhang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客的第一篇文章</title>
+    <link href="http://example.com/post/77783b82.html"/>
+    <id>http://example.com/post/77783b82.html</id>
+    <published>2022-09-21T14:37:57.730Z</published>
+    <updated>2022-09-21T16:08:50.854Z</updated>
+    
+    <content type="html"><![CDATA[<p>好久没有用 <code>Hexo</code> 来写博客了，主要是还是不想自己买服务器。</p><p>这篇文章里就集中记录一下博客中尚需解决的问题。</p><ul><li>Latex 公式渲染的问题（Markdown 的矩阵渲染问题）</li><li>百度站长添加域名，<code>DNS</code> 验证，主动百度推送</li><li>全局吸底的歌单 <code>aplayer</code></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;好久没有用 &lt;code&gt;Hexo&lt;/code&gt; 来写博客了，主要是还是不想自己买服务器。&lt;/p&gt;
+&lt;p&gt;这篇文章里就集中记录一下博客中尚需解决的问题。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Latex 公式渲染的问题（Markdown 的矩阵渲染问题）&lt;/li&gt;
+&lt;li&gt;百度站长添加域</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

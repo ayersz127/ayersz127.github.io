@@ -8,7 +8,7 @@
       <link href="/post/77783b82.html"/>
       <url>/post/77783b82.html</url>
       
-        <content type="html"><![CDATA[<p>好久没有用 <code>Hexo</code> 来写博客了，主要是还是不想自己买服务器。</p><p>这篇文章里就集中记录一下博客中尚需解决的问题。</p><ul><li>Latex 公式渲染的问题（Markdown 的矩阵渲染问题）</li></ul>]]></content>
+        <content type="html"><![CDATA[<p>好久没有用 <code>Hexo</code> 来写博客了，主要是还是不想自己买服务器。</p><p>这篇文章里就集中记录一下博客中尚需解决的问题。</p><ul><li>Latex 公式渲染的问题（Markdown 的矩阵渲染问题）</li><li>百度站长添加域名，<code>DNS</code> 验证，主动百度推送</li><li>全局吸底的歌单 <code>aplayer</code></li></ul>]]></content>
       
       
       
