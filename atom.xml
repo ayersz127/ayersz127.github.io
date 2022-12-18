@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-10-23T16:15:09.753Z</updated>
+  <updated>2022-12-18T09:57:35.952Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,18 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Mon Oct 24 2022 00:00:00 GMT+0800 (中国标准时间)</title>
-    <link href="http://example.com/post/ahzng812.html"/>
-    <id>http://example.com/post/ahzng812.html</id>
+    <title>训练计划</title>
+    <link href="http://example.com/post/acmtodolist.html"/>
+    <id>http://example.com/post/acmtodolist.html</id>
     <published>2022-10-23T16:13:34.451Z</published>
-    <updated>2022-10-23T16:15:09.753Z</updated>
+    <updated>2022-12-18T09:57:35.952Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="训练赛"><a href="#训练赛" class="headerlink" title="训练赛"></a>训练赛</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="个人训练安排"><a href="#个人训练安排" class="headerlink" title="个人训练安排"></a>个人训练安排</h2><ul><li><input disabled="" type="checkbox"> Codeforces Round #838 (Div. 2) <strong>E, F, G</strong></li><li><input disabled="" type="checkbox"> Educational Codeforces Round 139 (Rated for Div. 2) <strong>F</strong></li></ul><h2 id="队内训练安排"><a href="#队内训练安排" class="headerlink" title="队内训练安排"></a>队内训练安排</h2><ul><li><input disabled="" type="checkbox"> 训练1 <strong>(0&#x2F;8)</strong></li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;训练赛&quot;&gt;&lt;a href=&quot;#训练赛&quot; class=&quot;headerlink&quot; title=&quot;训练赛&quot;&gt;&lt;/a&gt;训练赛&lt;/h2&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;个人训练安排&quot;&gt;&lt;a href=&quot;#个人训练安排&quot; class=&quot;headerlink&quot; title=&quot;个人训练安排&quot;&gt;&lt;/a&gt;个人训练安排&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Codeforces R</summary>
       
     
     
